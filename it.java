@@ -1,3 +1,4 @@
-soft wear 
+Software
 power point 
-linux
+Linux
+Devops
