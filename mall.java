@@ -1,6 +1,5 @@
 maycys
 dillars 
-apple
 aldo
 express
 victoria secret
