@@ -4,3 +4,6 @@ Iddrisu
 Salamatu
 Williams 
 Roger 
+Daina 
+Merima
+Ramatu
